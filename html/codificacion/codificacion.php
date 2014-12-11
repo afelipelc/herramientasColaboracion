@@ -5,7 +5,6 @@ session_start();
 <br><br>
   <img class="img-responsive " src="img/src/codificacion/agiledev.jpg" alt="">
   <div class="sub-title lead3">...</div>
-  <br><br><br><br><br>
 </div>
 
 <div class="col-sm-6 wow fadeInLeftBig"  data-animation-delay="200">   
